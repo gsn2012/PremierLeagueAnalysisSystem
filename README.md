@@ -16,3 +16,5 @@ Contains details for 380 matches, 20 Teams, 653 Players, and more
 
 ER Diagram
 ![image](https://user-images.githubusercontent.com/90811500/227057495-14d7527a-781e-455c-8780-dc1c2973041b.png)
+
+Please check the powerpoint presentation for a preview of various features on the website.
