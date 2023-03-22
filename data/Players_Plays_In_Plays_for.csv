@@ -1,0 +1,624 @@
+﻿id,name,age,nationality,jersey_number,foot,pos,captain,T_id,appearances,substitutions,goals,penalties,yellow_cards,red_cards
+1,Bukayo Saka,19,England,7,Left,RM,0,1,40,3,12,2,6,0
+2,Gabriel Magalhaes,23,Brazil,6,Left,CB,0,1,37,1,5,0,7,1
+3,Aaron Ramsdale,23,England,32,Right,GK,0,1,37,0,0,0,1,0
+4,Ben White,23,England,4,Right,CB,0,1,37,0,0,0,3,0
+5,Martin Odegaard,22,Norway,8,Left,CAM,0,1,36,4,7,0,4,0
+6,Granit Xhaka,28,Switzerland,34,Left,CDM,0,1,29,1,1,0,10,2
+7,Gabriel Martinelli,20,Brazil,35,Right,LM,0,1,26,10,6,1,2,1
+8,Thomas Partey,28,Ghana,5,Right,CM,0,1,24,2,2,0,6,1
+9,Emile Smith Rowe,20,England,10,Right,CAM,0,1,24,12,11,0,1,0
+10,Kieran Tierney,24,Scotland,3,Left,LB,0,1,24,1,1,0,0,0
+11,Alexandre Lacazette,30,France,9,Right,ST,1,1,23,13,6,3,1,0
+12,Cédric Soares,29,Portugal,17,Right,RB,0,1,21,5,1,0,4,0
+13,Takehiro Tomiyasu,22,Japan,18,Right,CB,0,1,21,1,0,0,3,0
+14,Nuno Tavares,21,Portugal,20,Left,LB,0,1,17,11,1,0,2,0
+15,Albert Sambi Lokonga,21,Belgium,23,Right,CM,0,1,16,8,0,0,5,0
+16,Rob Holding,25,England,16,Right,CB,0,1,14,7,1,0,3,1
+17,Pierre-Emerick Aubameyang,32,Gabon,14,Right,ST,0,1,13,2,7,0,3,0
+18,Eddie Nketiah,22,England,30,Right,ST,0,1,13,14,10,0,3,0
+19,Mohamed El Neny,28,Egypt,25,Right,CDM,0,1,11,6,0,0,1,0
+20,Bernd Leno,29,Germany,1,Right,GK,0,1,8,0,0,0,0,0
+21,Nicolas Pépé,26,Côte d'Ivoire,19,Left,RM,0,1,8,15,3,0,0,0
+22,Ainsley Maitland-Niles,23,England,15,Right,CDM,0,1,4,7,0,0,0,0
+23,Calum Chambers,26,England,21,Right,RB,0,1,3,2,1,0,0,0
+24,Sead Kolašinac,28,Bosnia and Herzegovina,31,Left,LB,0,1,3,2,0,0,2,0
+25,Pablo Marí,27,Spain,22,Left,CB,0,1,3,0,0,0,1,0
+26,Folarin Balogun,19,England,26,Right,ST,0,1,2,2,0,0,1,0
+27,Charlie Patino,26,Belgium,87,Right,RB,0,1,1,1,1,0,0,0
+28,Reiss Nelson,26,France,24,Right,LW,0,1,0,1,0,0,0,0
+29,Cameron Archer,19,England,35,Right,ST,0,2,2,3,4,0,0,0
+30,Leon Bailey,23,Jamaica,31,Left,RM,0,2,7,11,1,0,3,0
+31,Emi Buendia,24,Argentina,10,Right,RM,0,2,24,13,4,0,1,0
+32,Matty Cash,23,England,2,Right,RB,0,2,40,0,4,0,8,0
+33,Calum Chambers,23,England,16,Right,CB,0,2,9,2,1,0,1,0
+34,Caleb Chukwuemeka,19,England,46,Right,ST,0,2,0,1,0,0,0,0
+35,Carney Chukwuemeka,17,England,33,Right,CAM,0,2,3,11,0,0,0,0
+36,Philippe Coutinho,26,Northern Ireland,23,Right,LM,0,2,16,3,5,0,0,0
+37,Keinan Davis,23,England,39,Left,ST,0,2,0,1,0,0,0,0
+38,Lucas Digne,24,Germany,27,Right,CB,0,2,16,0,0,0,2,0
+39,Douglas Luiz,23,Brazil,6,Right,CDM,0,2,32,3,2,0,7,0
+40,Anwar El Ghazi,26,Netherlands,21,Right,LM,0,2,6,6,3,2,2,0
+41,Frederic Guilbert,23,Portugal,24,Left,CAM,0,2,1,0,1,0,0,0
+42,Kortney Hause,25,England,30,Left,CB,0,2,6,3,1,0,0,0
+43,Conor Hourihane,26,Belgium,14,Right,RB,0,2,1,0,0,0,0,0
+44,Danny Ings,28,England,20,Right,ST,0,2,23,8,7,1,4,0
+45,Tim Iroegbunam,26,France,47,Right,LW,0,2,1,2,0,0,1,0
+46,Ezri Konsa,23,England,4,Right,CB,0,2,30,1,2,0,4,2
+47,Hayden Lindley,18,England,49,Right,CDM,0,2,0,1,0,0,0,0
+48,Emiliano Martínez,28,Argentina,1,Right,GK,0,2,37,0,0,0,4,0
+49,John McGinn,26,Scotland,7,Left,CDM,0,2,36,0,3,0,8,0
+50,Tyrone Mings,28,England,5,Left,CB,1,2,36,1,1,0,11,0
+51,Marvelous Nakamba,27,Zimbabwe,19,Left,CDM,0,2,12,6,0,0,6,0
+52,Robin Olsen,26,France,25,Right,LW,0,2,1,0,0,0,0,0
+53,Jaden Philogene-Bidace,19,England,32,Right,RW,0,2,1,3,0,0,0,0
+54,Aaron Ramsey,19,England,40,Right,CAM,0,2,0,1,0,0,0,0
+55,Jacob Ramsey,20,England,41,Right,CAM,0,2,30,5,6,0,7,0
+56,Morgan Sanson,26,France,8,Right,CM,0,2,4,7,0,0,0,0
+57,Jed Steer,28,England,12,Left,GK,0,2,3,0,0,0,0,0
+58,Matt Targett,25,England,3,Left,LB,0,2,19,0,1,0,2,0
+59,Bertrand Traoré,25,Burkina Faso,15,Left,RM,0,2,2,8,0,0,0,0
+60,Trézéguet,26,Egypt,17,Right,RM,0,2,0,1,0,0,0,0
+61,Axel Tuanzebe,23,England,16,Right,CB,0,2,8,3,0,0,1,0
+62,Ollie Watkins,25,England,11,Right,ST,0,2,34,2,11,1,7,0
+63,Wesley,26,Ecuador,9,Right,RM,0,2,0,1,0,0,0,0
+64,Ashley Young,35,England,18,Right,LWB,0,2,11,14,0,0,3,0
+65,Pontus Jansson,30,Sweden,18,Right,CB,1,3,39,0,3,0,7,0
+66,Christian Norgaard,27,Denmark,6,Right,CDM,0,3,36,2,3,0,8,0
+67,Rico Henry,23,England,3,Left,LB,0,3,35,2,3,0,2,0
+68,Bryan Mbeumo,21,France,19,Left,RW,0,3,35,3,8,2,4,0
+69,Ethan Pinnock,28,Jamaica,5,Left,CB,0,3,35,0,1,0,1,0
+70,Ivan Toney,25,England,17,Right,ST,0,3,34,3,14,6,8,0
+71,Vitaly Janelt,23,Germany,27,Left,CDM,0,3,31,4,4,0,4,0
+72,Sergi Canos,24,Spain,7,Right,LW,0,3,28,7,4,0,7,1
+73,Kristoffer Ajer,23,Norway,20,Right,CB,0,3,26,2,1,0,5,0
+74,David Raya,25,Spain,1,Right,GK,0,3,25,0,0,0,1,0
+75,Mathias Jensen,25,Denmark,8,Right,CM,0,3,23,12,0,0,0,0
+76,Alvaro Fernández,23,Spain,40,Left,GK,0,3,16,0,0,0,0,0
+77,Mads Roerslev Rasmussen,22,Denmark,30,Right,RWB,0,3,16,10,1,0,2,0
+78,Yoane Wissa,24,Congo DR,11,Right,LM,0,3,16,18,10,0,0,0
+79,Mads Bech Sørensen,22,Denmark,29,Left,CB,0,3,13,2,0,0,3,0
+80,Frank Onyeka,23,Nigeria,15,Right,CDM,0,3,13,11,0,0,4,0
+81,Shandon Baptiste,23,Grenada,26,Right,CM,0,3,10,15,1,0,0,1
+82,Christian Eriksen,26,Belgium,21,Right,RB,0,3,10,1,1,0,1,0
+83,Saman Ghoddos,27,Iran,14,Right,CAM,0,3,8,15,1,0,3,0
+84,Mathias Jorgensen,31,Denmark,22,Right,CB,0,3,8,2,1,0,2,0
+85,Charlie Goode,25,England,4,Right,CB,0,3,6,2,0,0,3,0
+86,Marcus Forss,22,Finland,9,Right,ST,0,3,5,7,6,1,0,0
+87,Dominic Thompson,20,England,2,Left,LB,0,3,5,0,0,0,0,0
+88,Mads Bidstrup,20,Denmark,28,Right,CDM,0,3,3,5,0,0,0,0
+89,Jonas Lössl,24,Germany,49,Right,CB,0,3,3,0,0,0,0,0
+90,Josh Dasilva,22,England,10,Left,CM,0,3,2,8,0,0,0,1
+91,Tariqe Fosu-Henry,25,Ghana,24,Right,LW,0,3,1,2,0,0,0,0
+92,Halil Dervişoğlu,23,Portugal,21,Left,CAM,0,3,1,0,0,0,0,0
+93,Fin Stevens,18,Wales,36,Right,RB,0,3,1,3,0,0,0,0
+94,Myles Peart-Harris,18,England,25,Right,CAM,0,3,0,2,0,0,0,0
+95,Nathan Young-Coombes,26,Northern Ireland,43,Right,LM,0,3,0,1,0,0,0,0
+96,Steven Alzate,26,France,17,Right,LW,0,4,8,4,0,0,0,0
+97,Yves Bissouma,26,Ecuador,8,Right,RM,0,4,26,2,2,0,10,0
+98,Dan Burn,26,Belgium,33,Right,RB,0,4,15,1,1,0,4,0
+99,Moisés Caicedo,26,Northern Ireland,25,Right,LM,0,4,9,1,1,0,2,0
+100,Aaron Connolly,22,Ireland,7,Right,CF,0,4,3,3,2,0,0,0
+101,Marc Cucurella,24,Germany,3,Right,CB,0,4,36,2,1,0,6,0
+102,Shane Duffy,26,France,24,Right,LW,0,4,17,3,1,0,7,0
+103,Lewis Dunk,24,Germany,5,Right,CB,1,4,30,1,1,0,3,1
+104,Evan Ferguson,23,Portugal,58,Left,CAM,0,4,0,4,0,0,0,0
+105,Pascal Gross,26,Northern Ireland,13,Right,LM,0,4,27,6,2,0,1,0
+106,Michał Karbownik,27,Israel,6,Right,CM,0,4,1,0,0,0,0,0
+107,Adam Lallana,34,England,14,Right,CAM,0,4,19,6,0,0,4,0
+108,Tariq Lamptey,26,France,2,Right,LW,0,4,18,14,0,0,4,0
+109,Marc Leonard,24,Germany,42,Right,CB,0,4,2,0,0,0,0,0
+110,Jürgen Locadia,24,Germany,27,Right,CB,0,4,1,2,0,0,0,0
+111,Alexis Mac Allister,23,Argentina,10,Right,CM,0,4,24,12,5,2,4,0
+112,Solly March,26,France,20,Right,LW,0,4,19,14,0,0,1,0
+113,Neal Maupay,26,Northern Ireland,9,Right,LM,0,4,27,8,9,1,7,0
+114,Jakub Moder,24,Germany,15,Right,CB,0,4,22,10,2,0,1,0
+115,Andy Moran,24,Spain,59,Right,RB,0,4,0,1,0,0,0,0
+116,Enock Mwepu,23,Portugal,12,Left,CAM,0,4,14,7,3,0,2,0
+117,Odel Offiah,26,Northern Ireland,57,Right,LM,0,4,1,1,0,0,0,0
+118,Taylor Richards,26,France,30,Right,LW,0,4,2,2,0,0,0,0
+119,Haydon Roberts,23,Portugal,28,Left,CAM,0,4,3,0,0,0,0,0
+120,Robert Sánchez,26,France,1,Right,LW,0,4,38,0,0,0,3,1
+121,Jeremy Sarmiento,24,Germany,60,Right,CB,0,4,2,5,0,0,0,0
+122,Kjell Scherpen,24,Germany,16,Right,CB,0,4,1,0,0,0,0,0
+123,Jason Steele,24,Germany,23,Right,CB,0,4,4,0,0,0,0,0
+124,Leandro Trossard,24,Germany,11,Right,CB,0,4,32,3,8,1,2,0
+125,Antef Tsoungui,24,Spain,53,Right,RB,0,4,1,0,0,0,0,0
+126,Ed Turns,23,Portugal,55,Left,CAM,0,4,1,0,0,0,0,0
+127,Joël Veltman,24,Germany,34,Right,CB,0,4,35,2,1,0,7,0
+128,Adam Webster,27,England,4,Right,CB,0,4,18,6,3,0,5,0
+129,Danny Welbeck,31,Spain,18,Right,ST,0,4,16,11,6,0,0,0
+130,Andi Zeqiri,24,Spain,19,Right,RB,0,4,1,0,1,0,0,0
+131,Phil Bardsley,36,Scotland,26,Right,RB,0,5,3,0,0,0,0,0
+132,Ashley Barnes,31,England,10,Right,ST,0,5,8,17,1,1,4,0
+133,Josh Brownhill,25,England,8,Right,CM,0,5,35,3,2,0,10,0
+134,Nathan Collins,20,Republic of Ireland,22,Right,CB,0,5,21,1,2,0,3,1
+135,Jack Cork,32,England,4,Right,CDM,0,5,23,1,1,0,4,0
+136,Maxwel Cornet,24,Côte d'Ivoire,20,Left,LB,0,5,22,6,9,0,2,0
+137,Owen Dodgson,18,England,39,Left,LB,0,5,0,1,0,0,0,0
+138,Jóhann Berg Gudmundsson,30,Iceland,7,Left,RM,0,5,14,5,0,0,2,0
+139,Wayne Hennessey,34,Wales,13,Right,GK,0,5,3,0,0,0,0,0
+140,Aaron Lennon,34,England,17,Right,RM,0,5,20,12,2,0,2,0
+141,Kevin Long,30,Republic of Ireland,28,Right,CB,0,5,4,2,0,0,1,0
+142,Matthew Lowton,32,England,2,Right,RB,0,5,21,6,1,0,3,1
+143,Dwight McNeil,21,England,11,Left,LM,0,5,37,3,0,0,2,0
+144,Ben Mee,31,England,6,Left,CB,1,5,24,0,3,0,3,0
+145,Erik Pieters,32,Netherlands,23,Left,LB,0,5,11,4,0,0,1,0
+146,Nick Pope,29,England,1,Right,GK,0,5,39,0,0,0,1,0
+147,Connor Roberts,25,Wales,14,Right,RWB,0,5,20,2,1,0,3,0
+148,Jay Rodriguez,31,England,19,Right,ST,0,5,17,16,7,0,3,0
+149,Dale Stephens,32,England,16,Right,CDM,0,5,2,2,0,0,1,0
+150,James Tarkowski,28,England,5,Right,CB,0,5,37,0,1,0,12,0
+151,Charlie Taylor,27,England,3,Left,LB,0,5,30,2,0,0,3,0
+152,Matej Vydra,29,Czech Republic,27,Right,CF,0,5,7,17,2,0,1,0
+153,Wout Weghorst,29,New Zealand,9,Right,ST,0,5,17,3,2,0,3,0
+154,Ashley R Westwood,31,England,18,Right,CDM,0,5,28,1,0,0,7,0
+155,Chris Wood,29,New Zealand,9,Right,ST,0,5,19,2,3,0,1,0
+156,César Azpilicueta,31,Spain,28,Right,CB,1,6,41,6,3,0,4,0
+157,Lewis Baker,24,Belgium,34,Right,RM,0,6,0,1,0,0,0,0
+158,Ross Barkley,27,England,18,Right,CAM,0,6,4,10,1,0,0,0
+159,Marcus Bettinelli,29,England,13,Right,GK,0,6,1,0,0,0,0,0
+160,Trevoh Chalobah,21,England,14,Right,CB,0,6,24,6,4,0,3,0
+161,Ben Chilwell,24,England,21,Left,LWB,0,6,9,4,3,0,0,0
+162,Andreas Christensen,25,Denmark,4,Right,CB,0,6,31,3,2,0,2,0
+163,Emerson,23,Portugal,33,Left,CAM,0,6,0,1,0,0,0,0
+164,Lewis Hall,24,Germany,75,Right,CB,0,6,1,0,0,0,0,0
+165,Kai Havertz,22,Germany,29,Left,CAM,0,6,35,12,14,1,8,0
+166,Callum Hudson-Odoi,20,England,20,Right,RW,0,6,22,6,3,0,2,0
+167,Reece James,21,England,24,Right,RWB,0,6,31,8,6,0,7,1
+168,Jorginho,29,Italy,5,Right,CM,0,6,40,7,9,9,6,0
+169,N'Golo Kante,30,France,7,Right,CDM,0,6,31,11,2,0,3,0
+170,Kenedy,24,Germany,23,Right,CB,0,6,2,1,0,0,0,0
+171,Kepa Arrizabalaga,26,Spain,1,Right,GK,0,6,13,2,0,0,1,0
+172,Mateo Kovacic,26,Spain,17,Left,CM,0,6,33,11,2,0,6,0
+173,Ruben Loftus-Cheek,25,England,12,Right,RM,0,6,18,22,1,0,3,0
+174,Romelu Lukaku,28,Belgium,9,Left,ST,0,6,29,15,15,1,1,0
+175,Marcos Alonso,30,Spain,3,Left,LWB,0,6,39,7,5,0,9,0
+176,Edouard Mendy,29,Senegal,16,Right,GK,0,6,49,0,0,0,3,0
+177,Mason Mount,22,England,19,Right,CAM,0,6,41,12,13,1,4,0
+178,Christian Pulisic,22,United States,10,Right,LW,0,6,21,17,8,0,2,0
+179,Antonio Rudiger,28,Germany,2,Right,CB,0,6,54,0,5,0,12,0
+180,Malang Sarr,22,France,31,Left,CB,0,6,16,5,0,0,4,0
+181,Saúl Ñiguez,26,Spain,17,Left,CM,0,6,12,11,1,0,3,0
+182,Xavier Simons,26,Ecuador,54,Right,RM,0,6,1,0,0,0,0,0
+183,Jude Soonsup-Bell,24,Germany,64,Right,CB,0,6,1,0,0,0,0,0
+184,Thiago Silva,36,Brazil,6,Right,CB,0,6,41,7,3,0,3,0
+185,Harvey Vale,23,Portugal,68,Left,CAM,0,6,1,4,0,0,1,0
+186,Timo Werner,25,Germany,11,Right,ST,0,6,24,13,11,0,1,0
+187,Hakim Ziyech,28,Morocco,22,Left,RW,0,6,27,17,8,1,5,0
+188,Kurt Zouma,24,Germany,15,Right,CB,0,6,1,0,0,0,0,0
+189,Tayo Adaramola,26,France,45,Right,LW,0,7,1,1,0,0,0,0
+190,Joachim Andersen,25,Denmark,16,Right,CB,0,7,37,2,0,0,4,0
+191,Jordan Ayew,29,Ghana,9,Right,ST,0,7,25,9,3,0,2,0
+192,Christian Benteke,30,Belgium,20,Right,ST,0,7,11,20,4,0,3,0
+193,Jack Butland,28,England,1,Right,GK,0,7,14,1,0,0,1,0
+194,Nathaniel Clyne,30,England,17,Right,RB,0,7,17,3,0,0,1,0
+195,Odsonne Edouard,23,France,22,Right,ST,0,7,18,13,6,1,4,0
+196,Ebere Eze,23,Portugal,25,Left,CAM,0,7,10,7,1,0,1,0
+197,Nathan Ferguson,20,England,36,Right,RB,0,7,0,1,0,0,0,0
+198,Conor Gallagher,21,England,23,Right,CM,0,7,37,2,8,0,12,0
+199,Vicente Guaita,34,Spain,13,Right,GK,0,7,30,0,0,0,2,0
+200,Marc Guehi,20,England,6,Right,CB,0,7,42,0,4,0,4,0
+201,Will Hughes,26,England,12,Left,CM,0,7,15,5,1,0,6,0
+202,Martin Kelly,31,England,34,Right,CB,0,7,1,0,0,0,0,0
+203,Cheikhou Kouyate,31,Senegal,8,Right,CB,0,7,27,4,1,0,3,0
+204,Jean-Philippe Mateta,24,France,14,Right,ST,0,7,19,9,7,0,2,0
+205,James McArthur,33,Scotland,18,Right,CM,0,7,16,7,0,0,4,0
+206,Luka Milivojevic,30,Serbia,4,Right,CDM,1,7,10,10,0,0,1,0
+207,Tyrick Mitchell,21,England,3,Left,LB,0,7,39,2,0,0,1,0
+208,Michael Olise,19,France,7,Left,CAM,0,7,16,15,4,0,4,0
+209,Jesuran Rak-Sakyi,18,England,49,Left,RW,0,7,1,1,0,0,0,0
+210,Jaïro Riedewald,24,Netherlands,44,Left,CDM,0,7,1,4,1,0,0,0
+211,Jeffrey Schlupp,28,Ghana,15,Left,LM,0,7,24,13,4,0,3,0
+212,James Tomkins,32,England,5,Right,CB,0,7,7,2,1,0,2,0
+213,Joel Ward,31,England,2,Right,RB,0,7,31,1,0,0,8,0
+214,Wilfried Zaha,28,Côte d'Ivoire,11,Right,CF,0,7,35,2,15,5,4,1
+215,Allan,30,Brazil,6,Right,CDM,0,8,28,3,0,0,7,1
+216,Dele Alli,31,Spain,36,Right,ST,0,8,1,10,0,0,3,0
+217,André Gomes,27,Portugal,21,Right,CM,0,8,11,8,1,0,6,0
+218,Asmir Begović,34,Bosnia and Herzegovina,15,Right,GK,0,8,7,0,0,0,0,0
+219,Jarrad Branthwaite,19,England,32,Right,CB,0,8,6,2,1,0,0,1
+220,Dominic Calvert-Lewin,24,England,9,Right,ST,0,8,15,3,5,2,2,0
+221,Cenk Tosun,30,Turkey,28,Right,ST,0,8,0,3,0,0,0,0
+222,Seamus Coleman,32,Republic of Ireland,23,Right,RB,1,8,33,1,1,0,4,0
+223,Tom Davies,23,England,26,Right,CM,0,8,4,4,1,0,1,0
+224,Fabian Delph,31,England,8,Left,CDM,0,8,8,3,0,0,2,0
+225,Lucas Digne,27,France,12,Left,LB,0,8,14,1,1,0,4,0
+226,Lewis Dobbin,24,Germany,61,Right,CB,0,8,0,5,0,0,1,0
+227,Abdoulaye Doucoure,28,France,16,Right,CM,0,8,31,3,2,0,6,0
+228,Anwar El Ghazi,26,Belgium,34,Right,RB,0,8,0,2,0,0,0,0
+229,Jean-Philippe Gbamin,25,Côte d'Ivoire,25,Right,CDM,0,8,2,3,0,0,0,0
+230,Ben Godfrey,23,England,22,Right,CB,0,8,27,0,0,0,7,0
+231,Anthony Gordon,26,Belgium,24,Right,RB,0,8,30,10,4,0,6,0
+232,Demarai Gray,25,England,11,Right,LW,0,8,30,9,6,0,3,0
+233,Mason Holgate,24,England,4,Right,CB,0,8,27,2,3,0,7,1
+234,Alex Iwobi,25,Nigeria,17,Right,RM,0,8,24,8,3,0,1,0
+235,Moise Kean,26,Northern Ireland,27,Right,LM,0,8,1,1,0,0,0,1
+236,Michael Keane,28,England,5,Right,CB,0,8,36,2,3,0,2,1
+237,Jonjoe Kenny,24,England,2,Right,RB,0,8,16,5,0,0,1,1
+238,Yerry Mina,26,Colombia,13,Right,CB,0,8,11,3,1,0,3,0
+239,Vitaliy Mykolenko,29,Colombia,19,Left,RW,0,8,15,1,1,0,1,0
+240,Niels Nkounkou,26,Northern Ireland,18,Right,LM,0,8,1,0,0,0,0,0
+241,Tyler Onyango,26,France,62,Right,LW,0,8,0,3,0,0,0,0
+242,Nathan Patterson,26,Northern Ireland,3,Right,LM,0,8,1,0,0,0,0,0
+243,Jordan Pickford,27,England,1,Left,GK,0,8,37,0,0,0,2,0
+244,Isaac Price,23,Portugal,60,Left,CAM,0,8,0,2,0,0,0,0
+245,Richarlison,24,Brazil,7,Right,ST,0,8,30,3,11,3,8,0
+246,Salomon Rondon,31,Venezuela,33,Right,ST,0,8,11,12,3,0,2,1
+247,Ellis Simms,20,England,50,Right,ST,0,8,1,0,0,0,0,0
+248,Andros Townsend,29,England,14,Left,RM,0,8,21,6,7,1,3,0
+249,Donny van de Beek,23,Portugal,30,Left,CAM,0,8,5,2,1,0,1,0
+250,Reece Welch,26,France,64,Right,LW,0,8,0,1,0,0,0,0
+251,Luke Ayling,29,England,2,Right,RB,0,9,27,1,2,0,4,1
+252,Patrick Bamford,27,England,9,Left,ST,0,9,7,3,2,0,2,0
+253,Lewis Bate,18,England,26,Right,RM,0,9,2,2,0,0,0,0
+254,Liam Cooper,29,Scotland,6,Left,CB,1,9,21,1,0,0,5,0
+255,Charlie Cresswell,18,England,35,Right,CB,0,9,2,4,0,0,1,0
+256,Stuart Dallas,30,Northern Ireland,15,Right,CM,0,9,36,1,1,0,5,0
+257,Cody Drameh,19,England,37,Right,RB,0,9,2,3,0,0,2,0
+258,Adam Forshaw,29,England,4,Right,CM,0,9,19,7,0,0,5,0
+259,Joe Gelhardt,19,England,30,Left,ST,0,9,5,17,2,0,4,0
+260,Sam Greenwood,19,England,42,Right,CF,0,9,2,7,0,0,0,0
+261,Jack Harrison,24,England,22,Left,LM,0,9,35,3,10,0,3,0
+262,Helder Costa,23,Portugal,17,Left,CAM,0,9,1,1,0,0,0,0
+263,Leo Hjelde,24,Germany,33,Right,CB,0,9,1,2,0,0,0,0
+264,Daniel James,23,Wales,20,Right,RM,0,9,32,3,4,0,7,1
+265,Junior Firpo,24,Spain,3,Left,LB,0,9,22,5,0,0,11,0
+266,Kristoffer Klaesson,20,Norway,13,Left,GK,0,9,0,1,0,0,0,0
+267,Mateusz Klich,31,Poland,43,Right,CM,0,9,28,9,1,0,5,0
+268,Robin Koch,24,Germany,5,Right,CB,0,9,18,3,0,0,3,0
+269,Diego Llorente,27,Spain,14,Right,CB,0,9,31,0,3,0,7,0
+270,Liam McCarron,20,Scotland,45,Left,LB,0,9,0,1,0,0,0,0
+271,Stuart McKinstry,26,France,39,Right,LW,0,9,0,2,0,0,0,0
+272,Illan Meslier,21,France,1,Left,GK,0,9,42,0,0,0,2,0
+273,Kalvin Phillips,25,England,23,Right,CDM,0,9,21,2,1,0,4,0
+274,Raphinha,24,Brazil,10,Left,RM,0,9,34,2,11,4,7,0
+275,Tyler Roberts,22,Wales,11,Right,CAM,0,9,10,16,1,0,6,0
+276,Rodrigo,30,Spain,19,Left,CAM,0,9,30,4,6,1,9,0
+277,Jamie Shackleton,21,England,46,Right,CM,0,9,9,7,0,0,4,0
+278,Pascal Struijk,21,Netherlands,21,Left,CB,0,9,24,7,1,0,6,1
+279,Crysencio Summerville,19,Netherlands,38,Right,RM,0,9,1,8,0,0,1,0
+280,Marc Albrighton,31,England,11,Right,RM,0,10,20,11,3,0,5,0
+281,Will Alves,26,Ecuador,77,Right,RM,0,10,0,1,0,0,0,0
+282,Daniel Amartey,26,Ghana,18,Right,CB,0,10,34,6,1,0,4,0
+283,Harvey Barnes,23,England,7,Right,LM,0,10,38,10,11,0,2,0
+284,Ryan Bertrand,31,England,5,Left,LB,0,10,9,2,0,0,2,0
+285,Lewis Brunt,24,Germany,62,Right,CB,0,10,1,1,0,0,0,0
+286,Caglar Soyuncu,25,Turkey,4,Right,CB,0,10,40,1,1,0,6,0
+287,Timothy Castagne,25,Belgium,27,Right,RB,0,10,30,6,1,0,2,0
+288,Hamza Choudhury,23,England,20,Right,CDM,0,10,6,6,0,0,1,0
+289,Patson Daka,22,Zambia,29,Right,ST,0,10,22,16,11,0,2,0
+290,Vontae Daley-Campbell,20,England,38,Right,RB,0,10,2,0,0,0,1,0
+291,Kiernan Dewsbury-Hall,22,England,22,Left,CM,0,10,35,9,3,0,5,0
+292,Jonny Evans,33,Northern Ireland,6,Right,CB,1,10,25,2,2,0,3,0
+293,Wesley Fofana,20,France,3,Right,CB,0,10,12,0,1,0,3,0
+294,Kelechi Iheanacho,24,Nigeria,14,Left,ST,0,10,22,21,8,1,3,0
+295,James Justin,23,England,2,Right,LWB,0,10,15,4,0,0,0,0
+296,Ademola Lookman,25,Nigeria,37,Right,LW,0,10,25,17,8,0,2,0
+297,James Maddison,24,England,10,Right,CAM,0,10,40,13,18,0,7,0
+298,Wanya Marçal-Madivádua,26,Ecuador,54,Right,RM,0,10,0,1,0,0,0,0
+299,Kasey McAteer,24,Germany,49,Right,CB,0,10,0,2,0,0,0,0
+300,Nampalys Mendy,29,Senegal,24,Right,CDM,0,10,12,3,0,0,4,0
+301,Wilfred Ndidi,24,Nigeria,25,Right,CDM,0,10,29,2,2,0,6,1
+302,Ayoze Pérez,27,Spain,17,Right,RW,0,10,11,14,3,0,0,1
+303,Ricardo Pereira,27,Portugal,21,Right,RB,0,10,20,4,2,0,4,0
+304,Kasper Schmeichel,34,Denmark,1,Right,GK,0,10,53,0,0,0,1,0
+305,Boubakary Soumaré,22,France,42,Right,CDM,0,10,18,12,0,0,2,0
+306,Luke Thomas,20,England,33,Left,LWB,0,10,31,2,0,0,5,0
+307,Youri Tielemans,24,Belgium,8,Right,CM,0,10,46,4,7,3,4,0
+308,Jamie Vardy,34,England,9,Right,ST,0,10,25,8,17,0,3,0
+309,Jannik Vestergaard,28,Denmark,23,Right,CB,0,10,12,8,0,0,4,0
+310,Danny Ward,28,Wales,12,Right,GK,0,10,5,0,0,0,0,0
+311,Adrián,34,Spain,13,Right,GK,0,11,1,0,0,0,0,0
+312,Trent Alexander-Arnold,22,England,66,Right,RB,0,11,46,0,2,0,5,0
+313,Alisson Becker,28,Brazil,1,Right,GK,0,11,53,0,0,0,0,0
+314,Owen Beck,26,Northern Ireland,63,Right,LM,0,11,0,2,0,0,0,0
+315,Harvey Blair,23,Portugal,86,Left,CAM,0,11,1,0,0,0,0,0
+316,Conor Bradley,26,Belgium,84,Right,RB,0,11,3,2,0,0,0,0
+317,Luis Díaz,24,Germany,23,Right,CB,0,11,17,8,6,0,0,0
+318,Diogo Jota,24,Portugal,20,Right,LW,0,11,39,15,21,0,6,0
+319,Ejijah Dixon-Bonner,20,England,45,Right,CDM,0,11,1,1,0,0,0,0
+320,Harvey Elliott,18,England,67,Left,RW,0,11,6,5,1,0,0,0
+321,Fabinho,27,Brazil,3,Right,CDM,0,11,40,7,8,3,8,0
+322,Roberto Firmino,29,Brazil,9,Right,CF,0,11,17,17,11,0,3,0
+323,Melkamu Frauendorf,27,Israel,94,Right,CM,0,11,0,1,0,0,0,0
+324,Joe Gomez,24,England,12,Right,CB,0,11,11,10,0,0,3,0
+325,Kaide Gordon,24,Germany,49,Right,CB,0,11,3,1,1,0,0,0
+326,Jordan Henderson,31,England,14,Right,CDM,1,11,42,14,3,0,4,0
+327,Curtis Jones,20,England,17,Right,CM,0,11,18,9,1,0,1,0
+328,Naby Keita,26,Guinea,8,Right,CM,0,11,25,14,4,0,4,0
+329,Caoimhin Kelleher,22,Republic of Ireland,62,Right,GK,0,11,8,0,0,0,1,0
+330,Ibrahima Konaté,22,France,5,Right,CB,0,11,25,3,3,0,4,0
+331,Billy Koumetio,18,France,89,Left,CB,0,11,1,0,0,0,0,0
+332,Sadio Mane,29,Senegal,10,Right,LW,0,11,45,5,23,0,8,0
+333,Joël Matip,29,Cameroon,32,Right,CB,0,11,42,1,3,0,3,0
+334,James Milner,35,England,7,Right,CM,0,11,14,25,0,0,5,0
+335,Takumi Minamino,26,Japan,18,Right,RW,0,11,9,15,10,0,2,0
+336,Tyler Morton,26,France,80,Right,LW,0,11,6,3,0,0,2,0
+337,James Norris,24,Germany,77,Right,CB,0,11,0,1,0,0,0,0
+338,Divock Origi,26,Belgium,27,Right,ST,0,11,5,13,6,0,0,0
+339,Alex Oxlade-Chamberlain,27,England,15,Right,CM,0,11,17,12,3,0,0,0
+340,Nat Phillips,24,England,47,Right,CB,0,11,1,2,0,0,0,0
+341,Andy Robertson,27,Scotland,26,Left,LB,0,11,43,3,3,0,7,1
+342,Mohamed Salah,29,Egypt,11,Left,RW,0,11,44,6,31,6,1,0
+343,Thiago Alcantara,30,Spain,6,Right,CM,0,11,25,13,2,0,3,0
+344,Kostas Tsimikas,25,Greece,21,Left,LB,0,11,19,7,0,0,3,0
+345,Virgil Van Dijk,29,Netherlands,4,Right,CB,0,11,50,0,3,0,4,0
+346,Neco Williams,20,Wales,76,Right,RB,0,11,4,4,0,0,0,0
+347,Max Woltman,24,Germany,82,Right,CB,0,11,1,1,0,0,0,0
+348,Nathan Ake,26,Netherlands,6,Left,CB,0,12,19,8,3,0,2,0
+349,Bernardo Silva,26,Portugal,20,Left,CAM,0,12,46,4,13,0,6,0
+350,Finley Burns,23,Portugal,94,Left,CAM,0,12,1,0,0,0,0,0
+351,Scott Carson,35,England,33,Right,GK,0,12,0,1,0,0,0,0
+352,Kevin De Bruyne,30,Belgium,17,Right,CM,0,12,39,6,19,1,4,0
+353,Liam Delap,18,England,48,Right,ST,0,12,0,3,0,0,0,0
+354,Ederson,27,Brazil,31,Left,GK,0,12,49,0,0,0,4,0
+355,Sam Edozie,18,England,53,Right,LW,0,12,1,0,0,0,0,0
+356,CJ Egan-Riley,20,Spain,56,Right,CDM,0,12,2,1,0,0,0,0
+357,Fernandinho,36,Brazil,25,Right,CDM,1,12,17,16,2,0,5,0
+358,Ferran Torres,21,Spain,21,Right,RW,0,12,7,0,3,0,0,0
+359,Phil Foden,21,England,47,Left,CAM,0,12,36,9,14,0,2,0
+360,Gabriel Jesus,24,Brazil,9,Right,ST,0,12,28,13,13,1,5,0
+361,Jack Grealish,25,England,10,Right,LW,0,12,31,8,6,0,3,0
+362,Ilkay Gundogan,30,Germany,8,Right,CM,0,12,32,11,10,0,2,0
+363,Joao Cancelo,27,Portugal,27,Right,RB,0,12,51,1,3,0,10,0
+364,Kayky,24,Germany,37,Right,CB,0,12,0,2,0,0,0,0
+365,Ben Knight,26,Belgium,96,Right,RB,0,12,0,1,0,0,0,0
+366,Aymeric Laporte,27,Spain,14,Left,CB,0,12,43,1,4,0,7,1
+367,Roméo Lavia,17,Belgium,90,Right,CDM,0,12,1,1,0,0,1,0
+368,Riyad Mahrez,30,Algeria,26,Left,RW,0,12,31,16,24,7,1,0
+369,Luke Mbete-Tabu,17,England,79,Left,CB,0,12,1,2,0,0,0,0
+370,James McAtee,18,England,87,Right,CAM,0,12,0,6,0,0,1,0
+371,Benjamin Mendy,26,France,22,Left,LB,0,12,2,0,0,0,0,0
+372,Cole Palmer,19,England,80,Left,RW,0,12,4,7,3,0,0,0
+373,Rodri,25,Spain,16,Right,CDM,0,12,45,1,7,0,8,0
+374,Ruben Dias,24,Portugal,3,Right,CB,0,12,37,3,2,0,6,0
+375,Zack Steffen,26,United States,13,Right,GK,0,12,9,0,0,0,1,0
+376,Raheem Sterling,26,England,7,Right,LW,0,12,32,15,17,2,2,0
+377,John Stones,27,England,5,Right,CB,0,12,24,3,2,0,1,0
+378,Kyle Walker,31,England,2,Right,RB,0,12,31,0,1,0,3,1
+379,Josh Wilson-Esbrand,24,Germany,97,Right,CB,0,12,1,0,0,0,0,0
+380,Olexsandr Zinchenko,24,Ukraine,11,Left,LB,0,12,18,10,0,0,2,0
+381,Alex Telles,28,Brazil,27,Left,LB,0,13,22,4,1,0,3,0
+382,Eric Bailly,27,Côte d'Ivoire,3,Right,CB,0,13,6,1,0,0,1,0
+383,Bruno Fernandes,26,Portugal,18,Right,CAM,0,13,43,3,10,0,10,0
+384,Edinson Cavani,34,Uruguay,21,Right,ST,0,13,8,12,2,0,1,0
+385,David De Gea,30,Spain,1,Right,GK,0,13,46,0,0,0,0,0
+386,Amad Diallo,18,Côte d'Ivoire,16,Left,RM,0,13,1,0,0,0,0,0
+387,Diogo Dalot,22,Portugal,20,Right,RB,0,13,24,6,0,0,6,0
+388,Anthony Elanga,19,Sweden,36,Right,LM,0,13,16,11,3,0,0,0
+389,Fred,28,Brazil,17,Left,CDM,0,13,30,6,4,0,8,0
+390,Alejandro Garnacho,18,Argentina,75,Right,LW,0,13,0,2,0,0,0,0
+391,Mason Greenwood,19,England,11,Left,RM,0,13,20,4,6,0,2,0
+392,Tom Heaton,35,England,22,Right,GK,0,13,0,1,0,0,0,0
+393,Dean Henderson,24,England,26,Right,GK,0,13,3,0,0,0,0,0
+394,Zidane Iqbal,26,Ecuador,73,Right,RM,0,13,0,1,0,0,0,0
+395,Daniel James,34,Uruguay,21,Right,ST,0,13,2,0,0,0,0,0
+396,Phil Jones,29,England,4,Right,CB,0,13,2,3,0,0,0,0
+397,Juan Mata,33,Spain,8,Left,CAM,0,13,4,8,0,0,0,0
+398,Victor Lindelöf,26,Sweden,2,Right,CB,0,13,33,2,0,0,5,0
+399,Jesse Lingard,28,England,14,Right,CAM,0,13,4,18,2,0,1,0
+400,Harry Maguire,28,England,5,Right,CB,1,13,35,2,2,0,7,1
+401,Anthony Martial,25,France,9,Right,ST,0,13,4,7,1,0,0,0
+402,Nemanja Matić,32,Serbia,31,Left,CDM,0,13,18,14,0,0,5,0
+403,Scott McTominay,24,Scotland,39,Right,CDM,0,13,35,2,2,0,10,0
+404,Hannibal Mejbri,18,Tunisia,46,Right,CAM,0,13,1,1,0,0,2,0
+405,Tedan Mengi,19,England,43,Right,CB,0,13,0,1,0,0,0,0
+406,Paul Pogba,28,France,6,Right,CM,0,13,21,6,1,0,8,1
+407,Marcus Rashford,23,England,10,Right,LM,0,13,18,14,5,0,3,0
+408,Cristiano Ronaldo,36,Portugal,7,Right,ST,0,13,35,3,24,3,9,0
+409,Jadon Sancho,21,England,25,Right,RM,0,13,27,11,5,0,0,0
+410,Charlie Savage,26,Belgium,72,Right,RB,0,13,0,1,0,0,0,0
+411,Luke Shaw,25,England,23,Left,LB,0,13,26,1,0,0,11,0
+412,Shola Shoretire,17,England,47,Right,RM,0,13,0,2,0,0,1,0
+413,Donny van de Beek,24,Netherlands,34,Right,CM,0,13,4,10,1,0,1,0
+414,Raphaël Varane,28,France,19,Right,CB,0,13,26,3,1,0,1,0
+415,Aaron Wan-Bissaka,23,England,29,Right,RB,0,13,25,1,0,0,2,1
+416,Miguel Almiron,27,Paraguay,24,Left,CAM,0,14,19,13,1,0,2,0
+417,Bruno Guimaraes,26,Belgium,39,Right,RB,0,14,11,6,5,0,4,0
+418,Dan Burn,20,England,33,Right,GK,0,14,16,0,0,0,4,0
+419,Ciaran Clark,31,Republic of Ireland,2,Left,CB,0,14,13,1,0,0,2,1
+420,Karl Darlow,30,England,26,Right,GK,0,14,8,0,0,0,1,0
+421,Martin Dúbravka,32,Slovakia,1,Right,GK,0,14,27,0,0,0,1,0
+422,Paul Dummett,29,Wales,3,Left,CB,0,14,2,1,0,0,2,0
+423,Federico Fernandez,32,Argentina,18,Right,CB,0,14,5,2,0,0,0,0
+424,Ryan Fraser,27,Scotland,21,Right,LM,0,14,20,9,2,0,3,0
+425,Dwight Gayle,30,England,34,Right,ST,0,14,1,8,0,0,1,0
+426,Isaac Hayden,26,England,14,Right,CDM,0,14,12,2,1,0,5,0
+427,Jeff Hendrick,29,Republic of Ireland,16,Right,CM,0,14,1,3,1,0,0,0
+428,Joelinton,24,Brazil,7,Right,ST,0,14,32,5,4,0,8,0
+429,Emil Krafth,26,Sweden,17,Right,RB,0,14,20,2,0,0,5,0
+430,Jamaal Lascelles,27,England,6,Right,CB,1,14,23,4,1,0,5,0
+431,Jamal Lewis,23,Northern Ireland,12,Left,LB,0,14,5,1,0,0,1,0
+432,Sean Longstaff,23,England,36,Right,CM,0,14,17,9,1,0,1,0
+433,Javi Manquillo,27,Spain,19,Right,RB,0,14,16,5,1,0,5,0
+434,Jacob Murphy,26,England,23,Right,RM,0,14,14,20,1,0,4,0
+435,Matt Ritchie,31,Scotland,11,Left,LWB,0,14,15,4,0,0,5,0
+436,Allan Saint-Maximin,24,France,10,Right,LM,0,14,32,5,5,0,6,0
+437,Fabian Schär,29,Switzerland,5,Right,CB,0,14,26,0,2,0,4,0
+438,Jonjo Shelvey,29,England,8,Right,CM,0,14,23,2,2,0,5,1
+439,Matt Targett,24,Germany,13,Right,CB,0,14,16,0,0,0,1,0
+440,Kieran Trippier,24,Germany,15,Right,CB,0,14,6,1,2,0,0,0
+441,Joe Willock,21,England,28,Right,CAM,0,14,24,7,2,0,0,0
+442,Callum Wilson,29,England,9,Right,ST,0,14,16,2,8,2,4,0
+443,Chris Wood,26,Belgium,20,Right,RB,0,14,15,2,2,1,0,0
+444,Freddie Woodman,24,England,27,Right,GK,0,14,5,0,0,0,0,0
+445,Max Aarons,21,England,2,Right,RB,0,15,32,3,0,0,8,0
+446,Sam Byram,27,England,3,Right,LB,0,15,14,4,0,0,4,0
+447,Todd Cantwell,23,England,14,Right,LM,0,15,5,3,0,0,2,0
+448,Kieran Dowell,23,England,10,Left,CAM,0,15,13,11,1,0,1,0
+449,Dimitris Giannoulis,25,Greece,30,Left,LB,0,15,17,5,0,0,3,0
+450,Ben Gibson,28,England,4,Left,CB,0,15,31,0,0,0,3,1
+451,Billy Gilmour,20,Scotland,8,Right,CM,0,15,23,5,0,0,2,0
+452,Angus Gunn,25,England,28,Right,GK,0,15,11,0,0,0,0,0
+453,Grant Hanley,29,Scotland,5,Right,CB,1,15,36,0,1,0,4,0
+454,Adam Idah,20,Republic of Ireland,35,Right,ST,0,15,8,13,1,0,0,0
+455,Tim Krul,33,Netherlands,1,Left,GK,0,15,31,0,0,0,1,0
+456,Pierre Lees-Melou,28,France,20,Right,CM,0,15,31,6,1,0,7,0
+457,Michael McGovern,36,Northern Ireland,33,Right,GK,0,15,1,0,0,0,1,0
+458,Kenny McLean,29,Scotland,23,Left,CM,0,15,32,3,3,0,4,0
+459,Bali Mumba,19,England,26,Right,RB,0,15,2,1,0,0,0,0
+460,Mathias Normann,25,Norway,16,Right,CDM,0,15,21,4,1,0,7,0
+461,Andrew Omobamidele,19,Republic of Ireland,44,Right,CB,0,15,6,1,1,0,1,0
+462,Ozan Kabak,21,Turkey,15,Right,CB,0,15,12,0,0,0,2,0
+463,Przemysław Placheta,23,Poland,11,Left,LM,0,15,8,6,0,0,1,0
+464,Teemu Pukki,31,Finland,22,Right,ST,0,15,38,3,11,3,5,0
+465,Milot Rashica,25,Kosovo,17,Right,CF,0,15,27,8,2,0,0,0
+466,Jonathan Rowe,24,Germany,46,Right,CB,0,15,0,15,0,0,0,0
+467,Lukas Rupp,30,Germany,7,Right,CM,0,15,10,12,2,0,1,0
+468,Josh Sargent,21,United States,24,Right,ST,0,15,20,9,4,0,2,0
+469,Jacob Sörensen,23,Denmark,19,Right,LB,0,15,8,4,0,0,1,0
+470,Tony Springett,18,Scotland,45,Right,ST,0,15,1,2,0,0,1,0
+471,Christos Tzolis,19,Greece,18,Right,LM,0,15,6,11,2,0,0,0
+472,Brandon Williams,20,England,21,Right,RB,0,15,25,4,0,0,9,0
+473,Christoph Zimmermann,28,Germany,6,Right,CB,0,15,4,1,0,0,1,0
+474,Che Adams,24,Scotland,10,Right,ST,0,16,24,9,8,0,0,0
+475,Adam Armstrong,24,England,9,Right,ST,0,16,21,7,2,0,1,0
+476,Stuart Armstrong,29,Scotland,17,Right,RM,0,16,18,12,3,0,1,0
+477,Jan Bednarek,25,Poland,35,Right,CB,0,16,32,2,4,0,10,0
+478,Armando Broja,19,Albania,18,Right,ST,0,16,24,14,9,0,2,0
+479,Willy Caballero,26,Ecuador,13,Right,RM,0,16,4,0,0,0,1,0
+480,Ibrahima Diallo,22,France,27,Right,CDM,0,16,15,15,1,0,4,0
+481,Moussa Djenepo,23,Mali,19,Right,LM,0,16,8,8,0,0,4,0
+482,Mohamed Elyounoussi,26,Norway,24,Right,LM,0,16,25,8,8,0,4,0
+483,Fraser Forster,33,England,44,Right,GK,0,16,24,0,0,0,2,0
+484,Valentino Livramento,18,England,21,Right,RB,0,16,27,5,1,0,2,0
+485,Shane Long,34,Republic of Ireland,7,Right,ST,0,16,6,13,2,0,1,0
+486,Lyanco,24,Germany,4,Right,CB,0,16,12,6,0,0,3,0
+487,Alex McCarthy,31,England,1,Right,GK,0,16,17,0,0,0,1,0
+488,Michael Obafemi,27,Israel,14,Right,CM,0,16,0,1,0,0,0,0
+489,Romain Perraud,23,France,15,Left,LB,0,16,21,2,1,0,4,0
+490,Nathan Redmond,27,England,11,Right,LM,0,16,23,9,3,0,0,0
+491,Oriol Romeu,29,Spain,6,Right,CDM,0,16,37,5,2,0,9,0
+492,Mohammed Salisu,22,Ghana,22,Left,CB,0,16,36,1,1,0,8,1
+493,Thierry Small,16,England,16,Left,LB,0,16,1,0,0,0,0,0
+494,Will Smallbone,21,Republic of Ireland,20,Right,CM,0,16,3,4,0,0,0,0
+495,Jack Stephens,27,England,5,Right,CB,0,16,14,2,0,0,3,0
+496,Nathan Tella,21,England,23,Right,LM,0,16,14,4,1,0,2,0
+497,Yann Valery,22,France,43,Right,RB,0,16,9,2,0,0,1,1
+498,Theo Walcott,32,England,32,Right,RM,0,16,6,6,0,0,0,0
+499,Kyle Walker-Peters,24,England,2,Right,RB,0,16,33,4,3,0,6,0
+500,James Ward-Prowse,26,England,8,Right,CM,1,16,41,1,11,5,3,1
+501,Dele Alli,25,England,20,Right,CAM,0,17,13,5,2,2,2,0
+502,Rodrigo Bentancur,26,France,30,Right,LW,0,17,16,2,0,0,6,0
+503,Steven Bergwijn,23,Netherlands,23,Right,LM,0,17,8,24,4,0,1,0
+504,Bryan Gil,20,Spain,11,Left,LM,0,17,9,11,0,0,3,0
+505,Cameron Carter-Vickers,26,Belgium,38,Right,RB,0,17,1,0,0,0,0,0
+506,Jack Clarke,20,England,47,Right,RM,0,17,0,1,0,0,0,0
+507,Ben Davies,28,Wales,33,Left,LB,0,17,41,2,1,0,7,0
+508,Eric Dier,27,England,15,Right,CB,0,17,39,1,0,0,0,0
+509,Matt Doherty,29,Republic of Ireland,2,Right,RB,0,17,19,7,2,0,0,0
+510,Emerson Royal,22,Brazil,12,Right,RB,0,17,31,10,1,0,5,0
+511,Pierluigi Gollini,26,Italy,22,Right,GK,0,17,10,0,0,0,0,0
+512,Son Heung-min,28,Korea Republic,7,Right,LM,0,17,39,6,24,0,3,0
+513,Pierre-Emile Hojbjerg,25,Denmark,5,Right,CDM,0,17,43,5,3,0,3,0
+514,Nile John,18,England,43,Right,CAM,0,17,1,0,0,0,0,0
+515,Harry Kane,27,England,10,Right,ST,0,17,47,3,27,4,5,0
+516,Dejan Kulusekvski,31,Spain,21,Right,ST,0,17,15,5,5,0,3,0
+517,Hugo Lloris,34,France,1,Left,GK,1,17,43,0,0,0,2,0
+518,J'Neil Lloyd-Bennett,23,Portugal,56,Left,CAM,0,17,0,1,0,0,0,0
+519,Giovani Lo Celso,25,Argentina,18,Left,CM,0,17,10,9,2,0,0,0
+520,Lucas Moura,28,Brazil,27,Right,RM,0,17,26,19,6,0,4,0
+521,Tanguy Ndombele,24,France,28,Right,CAM,0,17,10,6,2,0,2,0
+522,Maksim Paskotši,18,Estonia,48,Right,RB,0,17,0,1,0,0,0,0
+523,Joe Rodon,23,Wales,14,Right,CB,0,17,5,5,0,0,0,0
+524,Cristian Romero,23,Argentina,4,Right,CB,0,17,29,1,1,0,10,1
+525,Davinson Sanchez,25,Colombia,6,Right,CB,0,17,25,7,2,0,4,0
+526,Dane Scarlett,17,England,44,Right,ST,0,17,3,4,0,0,0,0
+527,Sergio Reguilon,24,Spain,3,Left,LB,0,17,26,5,2,0,4,0
+528,Ryan Sessegnon,21,England,19,Left,LWB,0,17,18,3,0,0,2,1
+529,Oliver Skipp,20,England,29,Right,CDM,0,17,22,6,0,0,7,0
+530,Japhet Tanganga,22,England,25,Right,RB,0,17,17,2,0,0,2,1
+531,Harry Winks,25,England,8,Right,CDM,0,17,17,13,1,0,2,0
+532,Dan Bachmann,26,Austria,26,Right,GK,0,18,13,0,0,0,0,0
+533,Craig Cathcart,32,Northern Ireland,15,Right,CB,0,18,28,4,0,0,3,0
+534,Tom Cleverley,31,England,8,Right,CM,1,18,21,9,0,0,2,0
+535,Kamil Conteh,24,Germany,45,Right,CB,0,18,0,1,0,0,0,0
+536,Troy Deeney,26,France,9,Right,LW,0,18,0,2,0,0,0,0
+537,Emmanuel Dennis,23,Nigeria,25,Right,ST,0,18,30,5,10,0,7,1
+538,Rob Elliot,35,Republic of Ireland,35,Left,GK,0,18,1,0,0,0,0,0
+539,Peter Etebo,25,Nigeria,4,Right,CM,0,18,5,5,0,0,3,0
+540,Kiko Femenia,30,Spain,21,Right,RB,0,18,26,2,0,0,2,0
+541,Ashley Fletcher,25,England,17,Right,ST,0,18,3,3,2,0,0,0
+542,Shaqai Forde,20,Republic of Ireland,47,Right,ST,0,18,0,1,0,0,0,0
+543,Ben Foster,38,England,1,Left,GK,0,18,27,0,0,0,0,0
+544,Dan Gosling,31,England,16,Right,CM,0,18,3,3,1,0,0,0
+545,Cucho Hernandez,22,Colombia,29,Right,ST,0,18,14,14,5,0,4,0
+546,Joao Pedro,19,Brazil,10,Right,ST,0,18,16,13,4,0,1,0
+547,Christian Kabasele,30,Belgium,27,Right,CB,0,18,13,4,0,0,0,0
+548,Samuel Kalu,26,France,28,Right,LW,0,18,2,2,0,0,0,0
+549,Hassane Kamara,23,Portugal,14,Left,CAM,0,18,18,1,1,0,3,1
+550,Edo Kayembe,20,Argentina,39,Right,RM,0,18,9,4,0,0,0,0
+551,Josh King,29,Norway,7,Right,ST,0,18,28,5,5,1,5,0
+552,Juraj Kucka,34,Slovakia,33,Right,CM,0,18,22,5,1,0,3,1
+553,Imran Louza,22,France,6,Left,CM,0,18,19,3,0,0,6,0
+554,Adam Masina,27,Morocco,11,Left,LB,0,18,14,2,0,0,0,0
+555,James Morris,24,Germany,42,Right,CB,0,18,1,0,0,0,0,0
+556,Jeremy Ngakia,20,England,2,Right,RB,0,18,12,7,0,0,0,0
+557,Nicolas Nkoulou,26,Northern Ireland,13,Right,LM,0,18,2,1,0,0,0,0
+558,Ozan Tufan,26,Turkey,18,Right,CM,0,18,6,3,0,0,0,0
+559,Danny Rose,30,England,3,Left,LB,0,18,8,1,0,0,5,0
+560,Samir,26,France,22,Right,LW,0,18,19,0,0,0,4,0
+561,Ismaïla Sarr,23,Senegal,23,Right,RW,0,18,21,1,5,0,2,0
+562,Ken Sema,27,Sweden,12,Left,LW,0,18,9,12,0,0,1,0
+563,Francisco Sierralta,24,Chile,31,Right,CB,0,18,8,0,0,0,1,0
+564,Moussa Sissoko,31,France,19,Right,CDM,0,18,37,1,2,0,5,0
+565,William Troost-Ekong,27,Nigeria,5,Right,CB,0,18,16,2,0,0,3,0
+566,Aji Alese,21,England,42,Left,CB,0,19,1,0,0,0,0,0
+567,Michail Antonio,31,Jamaica,9,Right,ST,0,19,45,2,13,0,8,1
+568,Keenan Appiah-Forson,24,Germany,59,Right,CB,0,19,0,1,0,0,0,0
+569,Alphonse Areola,28,France,13,Right,GK,0,19,18,0,0,0,0,0
+570,Harrison Ashby,19,Scotland,50,Right,RB,0,19,2,1,0,0,0,0
+571,Jamal Baptiste,17,England,75,Right,CB,0,19,1,0,0,0,0,0
+572,Saïd Benrahma,25,Algeria,22,Right,CAM,0,19,31,17,11,0,1,0
+573,Jarrod Bowen,24,England,20,Left,RM,0,19,45,6,18,0,8,0
+574,Daniel Chesters,31,Spain,51,Right,ST,0,19,0,2,0,0,0,0
+575,Vladimír Coufal,28,Czech Republic,5,Right,RB,0,19,29,5,0,0,3,1
+576,Aaron Cresswell,31,England,3,Left,LB,0,19,41,1,2,0,4,2
+577,Craig Dawson,31,England,15,Right,CB,0,19,45,5,4,0,7,1
+578,Issa Diop,24,France,23,Right,CB,0,19,22,4,1,0,2,0
+579,Lukasz Fabianski,36,Poland,1,Right,GK,0,19,38,0,0,0,2,0
+580,Pablo Fornals,25,Spain,8,Right,LM,0,19,41,13,6,0,5,0
+581,Ryan Fredericks,28,England,24,Right,RB,0,19,8,7,0,0,1,0
+582,Ben Johnson,21,England,31,Right,RB,0,19,28,6,1,0,1,0
+583,Alex Kral,23,Czech Republic,33,Right,CDM,0,19,3,3,0,0,0,0
+584,Manuel Lanzini,28,Argentina,10,Right,CAM,0,19,33,12,7,3,6,0
+585,Emmanuel Longelo,23,Portugal,56,Left,CAM,0,19,1,0,0,0,0,0
+586,Arthur Masuaku,27,Congo DR,26,Left,LWB,0,19,11,10,1,0,1,0
+587,Mark Noble,34,England,16,Right,CM,1,19,10,13,2,2,1,0
+588,Angelo Ogbonna,33,Italy,21,Left,CB,0,19,11,0,1,0,1,0
+589,Sonny Perkins,26,France,64,Right,LW,0,19,1,2,0,0,0,0
+590,Freddie Potts,23,Portugal,62,Left,CAM,0,19,0,1,0,0,0,0
+591,Declan Rice,22,England,41,Right,CDM,0,19,48,2,5,0,11,0
+592,Tomas Soucek,26,Czech Republic,28,Right,CDM,0,19,47,4,6,0,3,0
+593,Nikola Vlasic,23,Croatia,11,Right,CAM,0,19,16,15,1,0,0,0
+594,Andriy Yarmolenko,31,Ukraine,7,Left,RM,0,19,8,24,3,0,1,0
+595,Kurt Zouma,26,France,4,Right,CB,0,19,32,0,1,0,2,0
+596,Rayan Aït-Nouri,20,France,3,Left,LWB,0,20,24,3,1,0,4,0
+597,Willy Boly,30,Côte d'Ivoire,15,Right,CB,0,20,11,0,0,0,1,0
+598,Bruno Jordão,22,Portugal,6,Right,CM,0,20,0,1,0,0,0,0
+599,Chem Campbell,18,Wales,77,Right,CAM,0,20,0,1,0,0,0,0
+600,Chiquinho,26,Belgium,20,Right,RB,0,20,1,8,0,0,0,0
+601,Conor Coady,28,England,16,Right,CB,1,20,41,1,4,0,4,0
+602,Luke Cundle,19,England,39,Right,CM,0,20,2,4,0,0,0,0
+603,Daniel Podence,25,Portugal,10,Right,LW,0,20,19,11,6,0,2,0
+604,Leander Dendoncker,26,Belgium,32,Right,CM,0,20,25,9,3,0,4,0
+605,Fábio Silva,18,Portugal,17,Right,ST,0,20,10,16,0,0,1,0
+606,Morgan Gibbs-White,26,Northern Ireland,18,Right,LM,0,20,1,2,1,0,1,0
+607,HWANG Hee-chan,25,Korea Republic,26,Right,ST,0,20,21,10,5,0,2,0
+608,Ki-Jana Hoever,19,Netherlands,2,Right,RWB,0,20,6,4,0,0,1,0
+609,Raul Jimenez,30,Mexico,9,Right,ST,0,20,30,6,6,1,5,2
+610,Joao Moutinho,34,Portugal,28,Right,CM,0,20,36,3,2,0,4,0
+611,Jonny,27,Spain,19,Right,LWB,0,20,10,3,2,0,1,0
+612,José Sá,28,Portugal,1,Right,GK,0,20,37,0,0,0,3,0
+613,Max Kilman,24,England,23,Left,CB,0,20,34,0,1,0,3,0
+614,Marçal,32,Brazil,5,Left,LB,0,20,18,1,0,0,3,0
+615,Yerson Mosquera,20,Colombia,14,Right,CB,0,20,1,0,0,0,0,0
+616,Nélson Semedo,27,Portugal,22,Right,RWB,0,20,27,1,1,0,1,0
+617,Pedro Neto,21,Portugal,7,Left,LW,0,20,5,8,1,0,3,0
+618,Ruben Neves,24,Portugal,8,Right,CM,0,20,34,2,4,0,11,0
+619,John Ruddy,34,England,21,Right,GK,0,20,5,1,0,0,0,0
+620,Romain Saiss,31,Morocco,27,Left,CB,0,20,32,0,3,0,6,0
+621,Tote Gomes,26,France,24,Right,LW,0,20,5,0,0,0,1,0
+622,Adama Traoré,25,Spain,37,Right,RW,0,20,11,12,1,0,0,0
+623,Trincão,21,Portugal,11,Left,RW,0,20,16,14,3,0,0,0

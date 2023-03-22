@@ -1,0 +1,17 @@
+﻿pos,pos_type
+CB,Defender
+LB,Defender
+RB,Defender
+LWB,Defender
+RWB,Defender
+SW,Defender
+ST,Forward
+LW,Forward
+RW,Forward
+CF,Forward
+GK,Goalkeeper
+RM,Midfielder
+CAM,Midfielder
+CDM,Midfielder
+LM,Midfielder
+CM,Midfielder

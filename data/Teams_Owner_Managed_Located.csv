@@ -1,0 +1,21 @@
+﻿id,name,establishment_year,city,titles,owner_id,owner_name,owner_age,owner_net_worth,manager_id,stadium_id
+1,Arsenal,1886,London,13,1,Stan Kroenke,74,"10,70,00,00,000.00",11,5
+2,Aston Villa,1874,Birmingham,7,2,Nassef Sawiris,60,"8,70,00,00,000.00",18,20
+3,Brentford,1889,London,0,3,Matthew Benham,53,"3,00,00,000.00",19,8
+4,Brighton and Hove Albion,1901,Brighton and Hove,0,4,Tony Bloom,52,"1,60,00,00,000.00",8,6
+5,Burnley,1882,Lancashire,2,5,Alan Pace,60,,16,18
+6,Chelsea,1905,London,6,6,Roman Abramovich,56,"8,70,00,00,000.00",20,16
+7,Crystal Palace,1905,London,0,7,Steve Parish,57,"4,50,00,000.00",12,13
+8,Everton,1878,Merseyside,9,8,Farhad Moshiri,67,"2,90,00,00,000.00",7,7
+9,Leeds United,1919,London,3,9,Andrea Radrizzani,48,"45,00,00,000.00",10,4
+10,Leicester City,1884,Leicester,1,10,Aiyawatt Srivaddhanaprabha,37,"4,90,00,00,000.00",2,9
+11,Liverpool,1892,Liverpool,19,11,Tom Werner,72,"1,60,00,00,000.00",9,1
+12,Manchester City,1880,Manchester,8,12,Khaldoon Al Mubarak,46,"38,00,00,00,000.00",13,3
+13,Manchester United,1902,Manchester,20,13,Avram Glazer,62,"1,00,00,00,000.00",14,12
+14,Newcastle United,1892,Newcastle,4,14,Yasir Al-Rumayyan,52,"3,00,00,00,000.00",6,14
+15,Norwich City,1902,Norwich,0,15,Michael Wynn-Jones,81,"30,00,000.00",5,2
+16,Southampton,1885,Southampton,0,16,Gao Jisheng,58,"2,30,00,00,000.00",15,15
+17,Tottenham Hotspur,1882,London,2,17,Daniel Levy,60,"1,00,00,00,000.00",1,17
+18,Watford,1881,Watford,0,18,Gino Pozzo,56,"12,00,00,000.00",17,19
+19,West Ham United,1900,London,0,19,David Sullivan,73,"1,20,00,00,000.00",4,10
+20,Wolverhampton Wanderers,1877,Wolverhampton,0,20,Guo Guangchang,55,"3,80,00,00,000.00",3,11
